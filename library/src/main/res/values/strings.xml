@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Androidcomment</string>
+    <string name="durationformatshort">%2$d\'%5$02d\'\'</string>
+    <string name="durationformatlong">%1$d\'%3$02d\'%5$02d\'\'</string>
+    <string name="presstalk">按住 说话</string>
+    <string name="letoff">松开 结束</string>
+    <string name="cancelsend">松开手指，取消发送</string>
+    <string name="recordfinish">录音完成</string>
+    <string name="stopRecordFail">录音停止失败</string>
+    <string name="recordError"> 录音启动失败，请检查剩余存储空间大小 或 是否被其他程序占用</string>
+    <string name="prepardError">录音准备失败</string>
+    <string name="storageError">本地存储损坏，无法写入文件</string>
+    <string name="volumeTips"> 请打开音量收听</string>
+</resources>

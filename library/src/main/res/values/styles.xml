@@ -1,0 +1,16 @@
+<resources>
+
+
+
+    <style name="chat_recorder_style">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@drawable/ic_chat_recorder_bg</item>
+    </style>
+
+    <style name="Widget"></style>
+</resources>
