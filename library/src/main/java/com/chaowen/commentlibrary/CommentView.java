@@ -19,6 +19,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+
 import com.chaowen.commentlibrary.emoji.EmojiViewPagerAdapter;
 import com.chaowen.commentlibrary.emoji.Emojicon;
 import com.chaowen.commentlibrary.emoji.EmojiconEditText;
@@ -27,6 +28,7 @@ import com.chaowen.commentlibrary.emoji.RecordButton;
 import com.chaowen.commentlibrary.emoji.SoftKeyboardStateHelper;
 import com.chaowen.commentlibrary.util.SystemUtil;
 import com.chaowen.commentlibrary.viewpage.CirclePageIndicator;
+
 import java.util.ArrayList;
 import java.util.List;
 

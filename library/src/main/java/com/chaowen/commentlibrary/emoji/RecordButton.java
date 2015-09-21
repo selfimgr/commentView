@@ -16,7 +16,6 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ImageView;
-
 import com.chaowen.commentlibrary.R;
 import com.chaowen.commentlibrary.recoder.AudioMediaRecorder;
 import com.chaowen.commentlibrary.recoder.MediaRecorderOnErrorListener;
